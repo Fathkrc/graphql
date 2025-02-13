@@ -1,1 +1,2 @@
-java graphql basic project
+
+JAVA GRAPHQL BASIC PROJECT WITH ONE USER ENTITY
